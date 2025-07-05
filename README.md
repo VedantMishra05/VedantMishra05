@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VedantMishra05](https://github.com/VedantMishra05)
 
-- 💬 Ask me about **Javascript, Java, CSS**
+- 💬 Ask me about **Web Development, Core Java, Advanced Python**
 
 - 📫 How to reach me **vedantmishra3421@gmail.com**
 
